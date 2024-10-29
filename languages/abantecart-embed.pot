@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AbnateCart\n"
+"POT-Creation-Date: 2020-07-28 17:09+1000\n"
+"PO-Revision-Date: 2020-07-28 17:09+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html_e;_n;_x;_ex;_nx;esc_attr__;"
+"esc_html__;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+
+#: dialog.php:33 views/help.php:20 widget.php:155
+msgid "Widget"
+msgstr "Widget"
+
+#: dialog.php:34 views/help.php:21 widget.php:156
+msgid "Store"
+msgstr "Store"
+
+#: index.php:117 index.php:128
+msgid " Settings"
+msgstr " Settings"
+
+#: index.php:129 index.php:347
+msgid "Settings"
+msgstr "Settings"
+
+#: index.php:136
+msgid " Help"
+msgstr " Help"
+
+#: index.php:137
+msgid "Help"
+msgstr "Help"
+
+#: index.php:221
+msgid "Store URL is empty"
+msgstr "Store URL is empty"
+
+#: index.php:247
+msgid "View store"
+msgstr "View store"
+
+#: views/help-sidebar.php:9
+msgid "A short review of our plugin would be awesome. If only a few words."
+msgstr "A short review of our plugin would be awesome. If only a few words."
+
+#: views/help-sidebar.php:11
+msgid "Submit a review"
+msgstr "Submit a review"
+
+#: views/help-sidebar.php:16
+msgid "Need some help? Have a feature request?"
+msgstr "Need some help? Have a feature request?"
+
+#: views/help-sidebar.php:18
+msgid "Visit our Support Forums"
+msgstr "Visit our Support Forums"
+
+#: views/help.php:12
+msgid "AbanteCart Embed"
+msgstr "AbanteCart Embed"
+
+#: views/help.php:13
+#, php-format
+msgid ""
+"Start selling products online or digital downloads from your WordPress site "
+"in minutes. If you don't already have a %s account, set one up now at %s"
+msgstr ""
+"Start selling products online or digital downloads from your WordPress site "
+"in minutes. If you don't already have a %s account, set one up now at %s"
+
+#: views/help.php:15
+msgid "Embed options"
+msgstr "Embed options"
+
+#: views/help.php:16
+msgid ""
+"You can choose from the following options to embed on your WordPress site:"
+msgstr ""
+"You can choose from the following options to embed on your WordPress site:"
+
+#: views/help.php:19
+msgid "Buy button"
+msgstr "Buy button"
+
+#: views/help.php:24
+msgid "Using the plugin"
+msgstr "Using the plugin"
+
+#: views/help.php:25
+msgid ""
+"You can use the user interface or short codes to embed your store or items. "
+"Using the interface is easiest. If you're in a post or page, you will see "
+"the \"Add Product\" and \"Add Store\" buttons above your toolbar, clicking "
+"either will show the modal to embed your item or store with options for "
+"customisation. This will generate the required shortcode for you."
+msgstr ""
+"You can use the user interface or short codes to embed your store or items. "
+"Using the interface is easiest. If you're in a post or page, you will see "
+"the \"Add Product\" and \"Add Store\" buttons above your toolbar, clicking "
+"either will show the modal to embed your item or store with options for "
+"customisation. This will generate the required shortcode for you."
+
+#: views/help.php:27
+#, php-format
+msgid ""
+"You can also embed items and your store to your sidebar using the Widgets "
+"menu. Simply drag \"%s\" into your chose widget container and customize your "
+"embed."
+msgstr ""
+"You can also embed items and your store to your sidebar using the Widgets "
+"menu. Simply drag \"%s\" into your chose widget container and customize your "
+"embed."
+
+#: views/help.php:29
+msgid "Shopping cart"
+msgstr "Shopping cart"
+
+#: views/help.php:30
+#, php-format
+msgid ""
+"By default, the shopping cart will only show on pages containing a widget, "
+"button or store that you've added. You can also enable a global shopping "
+"cart on all pages by enabling it in <a href=\"?page=%s\">settings</a>."
+msgstr ""
+"By default, the shopping cart will only show on pages containing a widget, "
+"button or store that you've added. You can also enable a global shopping "
+"cart on all pages by enabling it in <a href=\"?page=%s\">settings</a>."
+
+#: views/help.php:32
+msgid "SSL/HTTPS Security"
+msgstr "SSL/HTTPS Security"
+
+#: views/help.php:33
+#, php-format
+msgid ""
+"You don't need an SSL certificate on your site to use the %s embeds since "
+"all the overlays and store embed use SSL. However, it is recommend to help "
+"with buyer confidence. Contact your hosting provider for more information."
+msgstr ""
+"You don't need an SSL certificate on your site to use the %s embeds since "
+"all the overlays and store embed use SSL. However, it is recommend to help "
+"with buyer confidence. Contact your hosting provider for more information."
+
+#: views/help.php:34
+msgid ""
+"If you need help setting up HTTPS on your WordPress site, check out the <a "
+"href=\"http://wordpress.org/plugins/wordpress-https/\" target=\"_blank"
+"\">WordPress HTTPS Plugin</a> that can help."
+msgstr ""
+"If you need help setting up HTTPS on your WordPress site, check out the <a "
+"href=\"http://wordpress.org/plugins/wordpress-https/\" target=\"_blank"
+"\">WordPress HTTPS Plugin</a> that can help."
+
+#: views/settings.php:61
+#, php-format
+msgid "Read our %s on how to get the best out of your %s WordPress plugin."
+msgstr "Read our %s on how to get the best out of your %s WordPress plugin."
+
+#: views/settings.php:62
+msgid "guide"
+msgstr "guide"

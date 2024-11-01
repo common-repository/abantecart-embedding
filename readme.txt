@@ -5,7 +5,7 @@ License: GPLv3
 License URI: https://github.com/abantecart/abantecart-embed/blob/main/LICENSE
 Tags: ecommerce, cart, commerce, buy now, checkout, sell, online store
 Requires at least: 4.9
-Tested up to: 6.5.0
+Tested up to: 6.7.0
 Stable tag: 1.0.2
 Requires PHP: 5.6.0
 
